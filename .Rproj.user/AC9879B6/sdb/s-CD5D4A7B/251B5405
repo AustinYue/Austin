@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "---\ntitle: \"Austin's Bio\"\n---\n\n\n<img src=\"images/IMG_3356.jpg\" style=\"width:75%\">\n\nmy favorite website is [HBO](https://www.hbo.com/).\n\n\n\n",
+    "created" : 1509111328514.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "238903476",
+    "id" : "251B5405",
+    "lastKnownWriteTime" : 1509113052,
+    "last_content_update" : 1509113052885,
+    "path" : "~/Documents/School/DSI/Austin's Bio/index.Rmd",
+    "project_path" : "index.Rmd",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
